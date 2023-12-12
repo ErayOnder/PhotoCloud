@@ -1,0 +1,12 @@
+Administrator |50|admin@ku.edu.tr|admin|00000000|/Users/erayonder/eclipse-workspace/PhotoCloud/PhotoCloud Logo Small.png|Welcome to PhotoCloud!|Professional
+Eray Onder|20|erayonder21@ku.edu.tr|erayonder1|11223344|/Users/erayonder/eclipse-workspace/PhotoCloud/ErayOnderPP.jpg|Hello, so excited to be here.|Professional
+Burak Kahvecioglu|20|bkahvecioglu@ku.edu.tr|burki|fenerbahcem|/Users/erayonder/eclipse-workspace/PhotoCloud/BurakKahveciogluPP.jpeg|I am the best.|Professional
+Gokmen Cetinkaya|20|gcetinkaya21@ku.edu.tr|goko|catalcaonline|/Users/erayonder/eclipse-workspace/PhotoCloud/GokmenCetinkayaPP.jpeg|I like to hoop:)|Professional
+Faruk Emre Aygun|20|faygun@ku.edu.tr|femry|sogancik1|/Users/erayonder/eclipse-workspace/PhotoCloud/FarukEmreAygunPP.jpeg|Don't run into me in the club:)|Hobbyist
+Sila Tahtaci|20|stahtaci@ku.edu.tr|silatahtaci|sila1234|Default_PP.png|Hellooooo:))|Hobbyist
+Berke Karamanli|20|bkaramanli@ku.edu.tr|berky|kangaltopuz|/Users/erayonder/eclipse-workspace/PhotoCloud/BerkeKaramanliPP.jpeg|I take COMP132 as well.|Hobbyist
+Ozgur Ozmen|21|oozmen@ku.edu.tr|ozgurozmen|87654321|/Users/erayonder/eclipse-workspace/PhotoCloud/OzgurOzmenPP.jpeg|I love this app.|Free
+Bora Cagilci|20|bcagilci@ku.edu.tr|berkbora61|trabzon61|Default_PP.png|Yeah man alright|Free
+Rana Yetkin|20|ryetkin@ku.edu.tr|ranayetkin|reina1234|Default_PP.png|Law, here I come.|Free
+Eda Yalcin|13|edayalcin@ku.edu.tr|edayalcin|Buyukaltay|Default_PP.png|Hi|Professional
+Ali Yilmaz|35|ayilmaz@ku.edu.tr|aliyilmaz|123456789|/Users/erayonder/Desktop/Screen Shot 2022-08-15 at 21.48.48 Small.jpeg|Hello. I am here.|Professional

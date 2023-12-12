@@ -1,0 +1,140 @@
+[Thu May 25 03:14:42 TRT 2023] [INFO] <admin> logged in.
+[Thu May 25 03:14:48 TRT 2023] [INFO] Contrast Filter applied to Image Path: <GokmenCetinkaya1.jpeg>.
+[Thu May 25 03:14:49 TRT 2023] [INFO] Blur Filter applied to Image Path: <SilaTahtaci1.jpeg>.
+[Thu May 25 03:14:49 TRT 2023] [INFO] Blur Filter applied to Image Path: <BerkeKaramanli1.jpeg>.
+[Thu May 25 03:14:49 TRT 2023] [INFO] Sharpen Filter applied to Image Path: <BerkeKaramanli1.jpeg>.
+[Thu May 25 03:14:49 TRT 2023] [INFO] Brightness Filter applied to Image Path: <BurakKahvecioglu1.jpeg>.
+[Thu May 25 03:14:49 TRT 2023] [INFO] GrayScale Filter applied to Image Path: <ErayOnder1.jpeg>.
+[Thu May 25 03:14:50 TRT 2023] [INFO] Edge Detection Filter applied to Image Path: <FarukEmreAygun1.jpeg>.
+[Thu May 25 03:20:48 TRT 2023] [INFO] <admin> logged in.
+[Thu May 25 03:20:51 TRT 2023] [INFO] Blur Filter applied to Image Path: <SilaTahtaci1.jpeg>.
+[Thu May 25 03:20:52 TRT 2023] [INFO] Edge Detection Filter applied to Image Path: <FarukEmreAygun1.jpeg>.
+[Thu May 25 03:20:52 TRT 2023] [INFO] GrayScale Filter applied to Image Path: <ErayOnder1.jpeg>.
+[Thu May 25 03:20:52 TRT 2023] [INFO] Contrast Filter applied to Image Path: <GokmenCetinkaya1.jpeg>.
+[Thu May 25 03:20:52 TRT 2023] [INFO] Blur Filter applied to Image Path: <BerkeKaramanli1.jpeg>.
+[Thu May 25 03:20:52 TRT 2023] [INFO] Sharpen Filter applied to Image Path: <BerkeKaramanli1.jpeg>.
+[Thu May 25 03:20:52 TRT 2023] [INFO] Brightness Filter applied to Image Path: <BurakKahvecioglu1.jpeg>.
+[Thu May 25 03:20:52 TRT 2023] [INFO] <admin> went to PhotoCloud Discover Page.
+[Thu May 25 13:35:11 TRT 2023] [INFO] Edge Detection Filter applied to Image Path: <FarukEmreAygun1.jpeg>.
+[Thu May 25 13:35:11 TRT 2023] [INFO] <femry> logged in.
+[Thu May 25 13:35:20 TRT 2023] [INFO] Post: <7> liked.
+[Thu May 25 13:35:21 TRT 2023] [INFO] Post: <7> liked.
+[Thu May 25 13:35:21 TRT 2023] [INFO] Post: <7> liked.
+[Thu May 25 13:35:22 TRT 2023] [INFO] Post: <7> liked.
+[Thu May 25 13:35:24 TRT 2023] [INFO] Contrast Filter applied to Image Path: <GokmenCetinkaya1.jpeg>.
+[Thu May 25 13:35:25 TRT 2023] [INFO] GrayScale Filter applied to Image Path: <ErayOnder1.jpeg>.
+[Thu May 25 13:35:25 TRT 2023] [INFO] Blur Filter applied to Image Path: <BerkeKaramanli1.jpeg>.
+[Thu May 25 13:35:25 TRT 2023] [INFO] Sharpen Filter applied to Image Path: <BerkeKaramanli1.jpeg>.
+[Thu May 25 13:35:25 TRT 2023] [INFO] Blur Filter applied to Image Path: <SilaTahtaci1.jpeg>.
+[Thu May 25 13:35:25 TRT 2023] [INFO] Brightness Filter applied to Image Path: <BurakKahvecioglu1.jpeg>.
+[Thu May 25 13:35:26 TRT 2023] [INFO] <femry> went to PhotoCloud Discover Page.
+[Thu May 25 13:35:29 TRT 2023] [INFO] <femry> went to <goko> profile page.
+[Thu May 25 13:35:41 TRT 2023] [INFO] Post: <5> disliked.
+[Thu May 25 13:35:53 TRT 2023] [INFO] <femry> returned to PhotoCloud Discover Page.
+[Thu May 25 13:35:55 TRT 2023] [INFO] <femry> went to <burki> profile page.
+[Thu May 25 13:36:00 TRT 2023] [INFO] <femry> returned to PhotoCloud Discover Page.
+[Thu May 25 13:36:04 TRT 2023] [INFO] <femry> went to <erayonder1> profile page.
+[Thu May 25 13:36:31 TRT 2023] [INFO] <femry> returned to PhotoCloud Discover Page.
+[Thu May 25 13:36:37 TRT 2023] [INFO] <femry> went to <ozgurozmen> profile page.
+[Thu May 25 13:36:43 TRT 2023] [INFO] <femry> returned to PhotoCloud Discover Page.
+[Thu May 25 13:36:55 TRT 2023] [INFO] <femry> went to <admin> profile page.
+[Thu May 25 13:36:59 TRT 2023] [INFO] <femry> returned to PhotoCloud Discover Page.
+[Thu May 25 13:37:05 TRT 2023] [INFO] <femry> logged out.
+[Thu May 25 13:37:14 TRT 2023] [INFO] <erayonder1> logged in.
+[Thu May 25 13:38:53 TRT 2023] [INFO] Brightness Filter applied to Image Path: </Users/erayonder/Desktop/skes.jpeg>.
+[Thu May 25 13:38:53 TRT 2023] [INFO] <erayonder1> add new Post. Post ID: <13>.
+[Thu May 25 13:39:00 TRT 2023] [INFO] <erayonder1> deleted Post. Post Name: <>.
+[Thu May 25 13:39:25 TRT 2023] [INFO] Edge Detection Filter applied to Image Path: </Users/erayonder/Desktop/skes.jpeg>.
+[Thu May 25 13:39:25 TRT 2023] [INFO] <erayonder1> add new Post. Post ID: <14>.
+[Thu May 25 13:39:42 TRT 2023] [INFO] <erayonder1> logged out.
+[Fri May 26 05:21:22 TRT 2023] [INFO] New User created. Username <edayalcin>.
+[Fri May 26 05:22:48 TRT 2023] [INFO] Blur Filter applied to Image Path: </Users/erayonder/Desktop/Eda.jpeg>.
+[Fri May 26 05:22:48 TRT 2023] [INFO] <edayalcin> add new Post. Post ID: <13>.
+[Fri May 26 05:22:51 TRT 2023] [INFO] Blur Filter applied to Image Path: <BerkeKaramanli1.jpeg>.
+[Fri May 26 05:22:51 TRT 2023] [INFO] Sharpen Filter applied to Image Path: <BerkeKaramanli1.jpeg>.
+[Fri May 26 05:22:51 TRT 2023] [INFO] GrayScale Filter applied to Image Path: <ErayOnder1.jpeg>.
+[Fri May 26 05:22:52 TRT 2023] [INFO] Edge Detection Filter applied to Image Path: <FarukEmreAygun1.jpeg>.
+[Fri May 26 05:22:52 TRT 2023] [INFO] Blur Filter applied to Image Path: <SilaTahtaci1.jpeg>.
+[Fri May 26 05:22:53 TRT 2023] [INFO] Contrast Filter applied to Image Path: <GokmenCetinkaya1.jpeg>.
+[Fri May 26 05:22:53 TRT 2023] [INFO] Brightness Filter applied to Image Path: <BurakKahvecioglu1.jpeg>.
+[Fri May 26 05:22:53 TRT 2023] [INFO] <edayalcin> went to PhotoCloud Discover Page.
+[Fri May 26 05:22:58 TRT 2023] [INFO] <edayalcin> went to <berky> profile page.
+[Fri May 26 05:23:02 TRT 2023] [INFO] Post: <9> disliked.
+[Fri May 26 05:23:03 TRT 2023] [INFO] Post: <9> disliked.
+[Fri May 26 05:23:04 TRT 2023] [INFO] Post: <9> disliked.
+[Fri May 26 05:23:06 TRT 2023] [INFO] Post: <9> disliked.
+[Fri May 26 05:23:06 TRT 2023] [INFO] Post: <9> disliked.
+[Fri May 26 05:23:06 TRT 2023] [INFO] Post: <9> disliked.
+[Fri May 26 05:23:06 TRT 2023] [INFO] Post: <9> disliked.
+[Fri May 26 05:23:06 TRT 2023] [INFO] Post: <9> disliked.
+[Fri May 26 05:23:10 TRT 2023] [INFO] <edayalcin> returned to PhotoCloud Discover Page.
+[Fri May 26 05:23:56 TRT 2023] [INFO] <edayalcin> went to <femry> profile page.
+[Fri May 26 05:24:04 TRT 2023] [INFO] <edayalcin> returned to PhotoCloud Discover Page.
+[Fri May 26 05:24:14 TRT 2023] [INFO] Post: <11> liked.
+[Fri May 26 05:24:22 TRT 2023] [INFO] <edayalcin> went to <ozgurozmen> profile page.
+[Fri May 26 05:24:28 TRT 2023] [INFO] <edayalcin> returned to PhotoCloud Discover Page.
+[Fri May 26 05:24:32 TRT 2023] [INFO] Post: <13> liked.
+[Fri May 26 05:24:39 TRT 2023] [INFO] <edayalcin> commented on <edayalcin> Post: <13>.
+[Fri May 26 05:24:49 TRT 2023] [INFO] <edayalcin> went to <goko> profile page.
+[Fri May 26 05:25:00 TRT 2023] [INFO] <edayalcin> returned to PhotoCloud Discover Page.
+[Fri May 26 05:25:05 TRT 2023] [INFO] <edayalcin> went to <erayonder1> profile page.
+[Fri May 26 11:32:35 TRT 2023] [INFO] New User created. Username <aliyilmaz>.
+[Fri May 26 11:32:53 TRT 2023] [INFO] <aliyilmaz> editted his/her About Me information.
+[Fri May 26 11:33:06 TRT 2023] [INFO] <aliyilmaz> editted his/her email/password information.
+[Fri May 26 11:34:27 TRT 2023] [INFO] Blur Filter applied to Image Path: </Users/erayonder/Desktop/Eda.jpeg>.
+[Fri May 26 11:35:37 TRT 2023] [INFO] <aliyilmaz> logged out.
+[Fri May 26 11:35:47 TRT 2023] [INFO] GrayScale Filter applied to Image Path: <ErayOnder1.jpeg>.
+[Fri May 26 11:35:47 TRT 2023] [INFO] <erayonder1> logged in.
+[Fri May 26 11:36:00 TRT 2023] [INFO] <erayonder1> add new Post. Post ID: <21>.
+[Fri May 26 11:36:23 TRT 2023] [INFO] Blur Filter applied to Image Path: </Users/erayonder/Desktop/LZS V.jpg>.
+[Fri May 26 11:36:52 TRT 2023] [INFO] GrayScale Filter applied to Image Path: <ErayOnder1.jpeg>.
+[Fri May 26 11:36:52 TRT 2023] [INFO] <erayonder1> logged in.
+[Fri May 26 11:37:06 TRT 2023] [INFO] Edge Detection Filter applied to Image Path: </Users/erayonder/Desktop/LZS V.jpg>.
+[Fri May 26 11:37:06 TRT 2023] [INFO] <erayonder1> add new Post. Post ID: <13>.
+[Fri May 26 11:37:33 TRT 2023] [INFO] Brightness Filter applied to Image Path: </Users/erayonder/Desktop/Eda.jpeg>.
+[Fri May 26 11:37:33 TRT 2023] [INFO] <erayonder1> add new Post. Post ID: <14>.
+[Fri May 26 11:37:46 TRT 2023] [INFO] <erayonder1> deleted Post. Post Name: <>.
+[Fri May 26 11:38:31 TRT 2023] [INFO] GrayScale Filter applied to Image Path: <ErayOnder1.jpeg>.
+[Fri May 26 11:38:31 TRT 2023] [INFO] <erayonder1> logged in.
+[Fri May 26 11:38:34 TRT 2023] [INFO] Blur Filter applied to Image Path: <SilaTahtaci1.jpeg>.
+[Fri May 26 11:38:34 TRT 2023] [INFO] Contrast Filter applied to Image Path: <GokmenCetinkaya1.jpeg>.
+[Fri May 26 11:38:35 TRT 2023] [INFO] Brightness Filter applied to Image Path: <BurakKahvecioglu1.jpeg>.
+[Fri May 26 11:38:35 TRT 2023] [INFO] Edge Detection Filter applied to Image Path: <FarukEmreAygun1.jpeg>.
+[Fri May 26 11:38:35 TRT 2023] [INFO] Blur Filter applied to Image Path: <BerkeKaramanli1.jpeg>.
+[Fri May 26 11:38:35 TRT 2023] [INFO] Sharpen Filter applied to Image Path: <BerkeKaramanli1.jpeg>.
+[Fri May 26 11:38:35 TRT 2023] [INFO] <erayonder1> went to PhotoCloud Discover Page.
+[Fri May 26 11:38:57 TRT 2023] [INFO] Post: <8> liked.
+[Fri May 26 11:39:00 TRT 2023] [INFO] Post: <8> disliked.
+[Fri May 26 11:39:03 TRT 2023] [INFO] <erayonder1> commented on <silatahtaci> Post: <8>.
+[Fri May 26 11:39:57 TRT 2023] [INFO] <erayonder1> went to his/her profile page.
+[Fri May 26 11:40:09 TRT 2023] [INFO] <erayonder1> logged out.
+[Fri May 26 11:40:20 TRT 2023] [INFO] <berky> logged in.
+[Fri May 26 11:40:30 TRT 2023] [INFO] <berky> logged out.
+[Fri May 26 11:40:53 TRT 2023] [INFO] <ozgurozmen> logged in.
+[Fri May 26 11:42:01 TRT 2023] [INFO] GrayScale Filter applied to Image Path: <ErayOnder1.jpeg>.
+[Fri May 26 11:42:01 TRT 2023] [INFO] <erayonder1> logged in.
+[Fri May 26 11:42:04 TRT 2023] [INFO] <erayonder1> logged out.
+[Fri May 26 11:42:13 TRT 2023] [INFO] <admin> logged in.
+[Fri May 26 11:42:26 TRT 2023] [INFO] Contrast Filter applied to Image Path: <GokmenCetinkaya1.jpeg>.
+[Fri May 26 11:42:26 TRT 2023] [INFO] Brightness Filter applied to Image Path: <BurakKahvecioglu1.jpeg>.
+[Fri May 26 11:42:26 TRT 2023] [INFO] Edge Detection Filter applied to Image Path: <FarukEmreAygun1.jpeg>.
+[Fri May 26 11:42:27 TRT 2023] [INFO] Blur Filter applied to Image Path: <SilaTahtaci1.jpeg>.
+[Fri May 26 11:42:27 TRT 2023] [INFO] Blur Filter applied to Image Path: <BerkeKaramanli1.jpeg>.
+[Fri May 26 11:42:27 TRT 2023] [INFO] Sharpen Filter applied to Image Path: <BerkeKaramanli1.jpeg>.
+[Fri May 26 11:42:27 TRT 2023] [INFO] <admin> went to PhotoCloud Discover Page.
+[Fri May 26 11:42:40 TRT 2023] [INFO] Administrator deleted Post Name: <Self i>.
+[Fri May 26 11:42:45 TRT 2023] [INFO] <admin> went to <goko> profile page.
+[Fri May 26 11:42:55 TRT 2023] [INFO] <admin> returned to PhotoCloud Discover Page.
+[Fri May 26 21:43:12 TRT 2023] [INFO] GrayScale Filter applied to Image Path: <ErayOnder1.jpeg>.
+[Fri May 26 21:43:12 TRT 2023] [INFO] <erayonder1> logged in.
+[Fri May 26 21:43:25 TRT 2023] [INFO] Edge Detection Filter applied to Image Path: </Users/erayonder/Desktop/LZS V.jpg>.
+[Fri May 26 21:43:25 TRT 2023] [INFO] <erayonder1> add new Post. Post ID: <13>.
+[Fri May 26 21:43:30 TRT 2023] [INFO] <erayonder1> deleted Post. Post Name: <>.
+[Fri May 26 21:43:33 TRT 2023] [INFO] Blur Filter applied to Image Path: <BerkeKaramanli1.jpeg>.
+[Fri May 26 21:43:33 TRT 2023] [INFO] Sharpen Filter applied to Image Path: <BerkeKaramanli1.jpeg>.
+[Fri May 26 21:43:34 TRT 2023] [INFO] Edge Detection Filter applied to Image Path: <FarukEmreAygun1.jpeg>.
+[Fri May 26 21:43:34 TRT 2023] [INFO] Brightness Filter applied to Image Path: <BurakKahvecioglu1.jpeg>.
+[Fri May 26 21:43:34 TRT 2023] [INFO] Contrast Filter applied to Image Path: <GokmenCetinkaya1.jpeg>.
+[Fri May 26 21:43:35 TRT 2023] [INFO] Blur Filter applied to Image Path: <SilaTahtaci1.jpeg>.
+[Fri May 26 21:43:35 TRT 2023] [INFO] <erayonder1> went to PhotoCloud Discover Page.
+[Fri May 26 21:43:38 TRT 2023] [INFO] <erayonder1> logged out.
